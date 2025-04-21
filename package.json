@@ -1,0 +1,26 @@
+{
+  "name": "hackhive-monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo for HackHive project containing both frontend and backend",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm install && npm run install:frontend && npm run install:backend",
+    "install:frontend": "cd HackHive-main && npm install",
+    "install:backend": "cd HackHive-backend-main && npm install",
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd HackHive-main && npm run dev",
+    "dev:backend": "cd HackHive-backend-main && npm run dev",
+    "build": "cd HackHive-main && npm run build",
+    "start": "cd HackHive-backend-main && npm start"
+  },
+  "keywords": [
+    "hackathon",
+    "team-formation",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

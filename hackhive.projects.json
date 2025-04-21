@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "67e85c5f6066004fac78db12"
+  },
+  "title": "Decentralized Secure Document Sharing Platform",
+  "description": "A platform leveraging blockchain to securely share documents with fine-grained access control and immutability. Users can upload, share, and track documents with confidence knowing their data is protected and auditable.",
+  "challenge": "80",
+  "stackMatch": 86,
+  "workflow": [],
+  "techStack": [],
+  "features": [
+    "Document Upload & Storage: Securely store documents on a decentralized network using IPFS or similar.",
+    "Access Control: Granular permission management using smart contracts on the blockchain.",
+    "Version Control: Immutably track document versions on the blockchain.",
+    "Audit Trail: Comprehensive audit trail of document access and modifications.",
+    "User Authentication: Secure user authentication leveraging cryptographic keys.",
+    "Search & Retrieval: Efficient document search and retrieval capabilities."
+  ],
+  "team": {
+    "$oid": "67e7c5e7305e4b581ae62432"
+  },
+  "createdBy": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "createdAt": {
+    "$date": "2025-03-29T20:47:27.631Z"
+  },
+  "__v": 0
+}]

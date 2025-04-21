@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "67e7c5a7305e4b581ae623f2"
+  },
+  "email": "anirudh@gmail.com",
+  "password": "$2a$12$x0x/hllKBfrrBVRTpm0Ncufl5OubPlPDageQXmm0a5qV74P7UDMYa",
+  "name": "Anirudh",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "C++",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "UI/UX Design",
+    "Project Management",
+    "Team Leadership",
+    "Problem Solving",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e7c5a7305e4b581ae623f3"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e7c5a7305e4b581ae623f4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-29T10:04:23.108Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e7c5e7305e4b581ae62432"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "email": "pranshubansal603@gmail.com",
+  "password": "$2a$12$bn1qcrtuT0.uXDts4Bd93u4akx2WD8MhAsrffdr4LDaiJHWU/eOMu",
+  "name": "Pranshu ",
+  "skills": [
+    "Flask",
+    "Angular",
+    "Vue.js",
+    "Spring Boot",
+    "Django",
+    "Java",
+    "Docker",
+    "AWS",
+    "PostgreSQL",
+    "Kubernetes",
+    "Blockchain",
+    "DevOps",
+    "Agile Methodology",
+    "System Design",
+    "Technical Writing",
+    "Data Analysis"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e7c5cc305e4b581ae62403"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e7c5cc305e4b581ae62404"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-29T10:05:00.961Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e7c5e7305e4b581ae62432"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e8844e7fccd2e97beb2b80"
+  },
+  "email": "abc@gmaill.com",
+  "password": "$2a$12$Jaq5ExCZ31ZZtjTwCiWjeutz9GnGMv7YIcfUuFXoYqgjxdjcGAo2O",
+  "name": "sdjhbfjsdb",
+  "skills": [
+    "JavaScript",
+    "C++",
+    "React",
+    "Vue.js",
+    "Django",
+    "Node.js",
+    "Agile Methodology",
+    "Technical Writing"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e8844e7fccd2e97beb2b81"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e8844e7fccd2e97beb2b82"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-29T23:37:50.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e93f19e355e0d7453918e3"
+  },
+  "email": "showaccount1@gmail.com",
+  "password": "$2a$12$orNnzZqphdjA5lRbxQ4Bmu43nIYVWCGrbKpL9y5hQQySpLkyixNiy",
+  "name": "showaccount1",
+  "skills": [
+    "JavaScript (Level 2)",
+    "C++ (Level 2)",
+    "React (Level 3)",
+    "Django (Level 4)",
+    "Spring Boot (Level 2)",
+    "Agile Methodology (Level 3)",
+    "Communication (Level 3)",
+    "Data Analysis (Level 3)"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e93f19e355e0d7453918e4"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e93f19e355e0d7453918e5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-30T12:54:49.664Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e94002e355e0d74539191f"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e93ff0e355e0d7453918ed"
+  },
+  "email": "showaacount2@gmail.com",
+  "password": "$2a$12$9cjGF8mkE5FX9jRyeUon0.JDGg3pgrqBQL0XyfL9EOMaug8lXtLAa",
+  "name": "showaacount2",
+  "skills": [
+    "C++ (Level 2)",
+    "React (Level 2)",
+    "MongoDB (Level 3)",
+    "Machine Learning (Level 2)",
+    "Artificial Intelligence (Level 3)",
+    "Team Leadership (Level 2)",
+    "Project Management (Level 2)"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e93ff0e355e0d7453918ee"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e93ff0e355e0d7453918ef"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-30T12:58:24.790Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e94002e355e0d74539191f"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e98159418b8be7a5bf72e2"
+  },
+  "email": "something@gmail.com",
+  "password": "$2a$12$K0Ug8wgPlj8qE6dlo5Tuj.tgwiEEdoxhvFbDrou1krYrqPx/fp69O",
+  "name": "something",
+  "skills": [
+    "JavaScript (Level 2)",
+    "React (Level 4)",
+    "Django (Level 3)",
+    "Spring Boot (Level 2)",
+    "Kubernetes (Level 3)",
+    "Artificial Intelligence (Level 3)",
+    "Angular (Level undefined)",
+    "Project Management (Level 2)",
+    "Communication (Level 2)",
+    "System Design (Level 1)"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e98159418b8be7a5bf72e3"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e98159418b8be7a5bf72e4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-30T17:37:29.666Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e981ba418b8be7a5bf731d"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e981ad418b8be7a5bf72ec"
+  },
+  "email": "something1@gmail.com",
+  "password": "$2a$12$qSe8PNoS784BQcNIq4zZru6smwmwXLTunEQrbRq/F9w8hoMukfUii",
+  "name": "something1",
+  "skills": [
+    "React (Level 1)",
+    "Node.js (Level 3)",
+    "Angular (Level 3)",
+    "Spring Boot (Level 2)",
+    "Django (Level 2)",
+    "System Design (Level 3)"
+  ],
+  "projects": [
+    {
+      "title": "something",
+      "description": "something",
+      "technologies": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e981ad418b8be7a5bf72ed"
+      }
+    }
+  ],
+  "competitiveExperience": [
+    {
+      "platform": "something",
+      "username": "something",
+      "achievements": [
+        "something"
+      ],
+      "_id": {
+        "$oid": "67e981ad418b8be7a5bf72ee"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-30T17:38:53.736Z"
+  },
+  "__v": 0,
+  "team": {
+    "$oid": "67e981ba418b8be7a5bf731d"
+  }
+}]

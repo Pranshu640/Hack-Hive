@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "67e7c5e7305e4b581ae62432"
+  },
+  "name": "Pranshu 's Team",
+  "members": [
+    {
+      "$oid": "67e7c5cc305e4b581ae62402"
+    },
+    {
+      "$oid": "67e7c5a7305e4b581ae623f2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-29T10:05:27.736Z"
+  },
+  "__v": 0,
+  "chosenProject": {
+    "$oid": "67e85c5f6066004fac78db12"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e94002e355e0d74539191f"
+  },
+  "name": "showaacount2's Team",
+  "members": [
+    {
+      "$oid": "67e93ff0e355e0d7453918ed"
+    },
+    {
+      "$oid": "67e93f19e355e0d7453918e3"
+    }
+  ],
+  "teamSkills": [
+    "JavaScript (Level 2)",
+    "C++ (Level 2)",
+    "React (Level 3)",
+    "Django (Level 4)",
+    "Spring Boot (Level 2)",
+    "Agile Methodology (Level 3)",
+    "Communication (Level 3)",
+    "Data Analysis (Level 3)",
+    "React (Level 2)",
+    "MongoDB (Level 3)",
+    "Machine Learning (Level 2)",
+    "Artificial Intelligence (Level 3)",
+    "Team Leadership (Level 2)",
+    "Project Management (Level 2)"
+  ],
+  "description": "Team formed by showaacount2 and showaccount1",
+  "maxMembers": 4,
+  "projects": [],
+  "createdAt": {
+    "$date": "2025-03-30T12:58:42.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e981ba418b8be7a5bf731d"
+  },
+  "name": "something1's Team",
+  "members": [
+    {
+      "$oid": "67e981ad418b8be7a5bf72ec"
+    },
+    {
+      "$oid": "67e98159418b8be7a5bf72e2"
+    }
+  ],
+  "teamSkills": [
+    "JavaScript (Level 2)",
+    "React (Level 4)",
+    "Django (Level 3)",
+    "Spring Boot (Level 2)",
+    "Kubernetes (Level 3)",
+    "Artificial Intelligence (Level 3)",
+    "Angular (Level undefined)",
+    "Project Management (Level 2)",
+    "Communication (Level 2)",
+    "System Design (Level 1)",
+    "React (Level 1)",
+    "Node.js (Level 3)",
+    "Angular (Level 3)",
+    "Django (Level 2)",
+    "System Design (Level 3)"
+  ],
+  "description": "Team formed by something1 and something",
+  "maxMembers": 4,
+  "projects": [],
+  "createdAt": {
+    "$date": "2025-03-30T17:39:06.969Z"
+  },
+  "__v": 0
+}]

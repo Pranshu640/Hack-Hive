@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "67e7bc30b8cfde85df6b1a8c"
+  },
+  "sender": {
+    "$oid": "67e7aa22d2038e3678c3869d"
+  },
+  "receiver": {
+    "$oid": "67e7a34bd2038e3678c38621"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-29T09:24:00.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e7c5df305e4b581ae62420"
+  },
+  "sender": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "receiver": {
+    "$oid": "67e7c5a7305e4b581ae623f2"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-29T10:05:19.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e7cb9fe740e508a40c0d71"
+  },
+  "sender": {
+    "$oid": "67e7c5a7305e4b581ae623f2"
+  },
+  "receiver": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2025-03-29T10:29:51.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8e1f76df8828d1c512a8e"
+  },
+  "sender": {
+    "$oid": "67e8df936df8828d1c5129c7"
+  },
+  "receiver": {
+    "$oid": "67e8844e7fccd2e97beb2b80"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-03-30T06:17:27.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8e20a6df8828d1c512ac8"
+  },
+  "sender": {
+    "$oid": "67e8df936df8828d1c5129c7"
+  },
+  "receiver": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T06:17:46.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8e2cc6df8828d1c512b79"
+  },
+  "sender": {
+    "$oid": "67e8e2be6df8828d1c512b5d"
+  },
+  "receiver": {
+    "$oid": "67e8e2886df8828d1c512b53"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T06:21:00.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8f05b8d20cd1d8a19af6b"
+  },
+  "sender": {
+    "$oid": "67e8f0518d20cd1d8a19af4f"
+  },
+  "receiver": {
+    "$oid": "67e8e44f8d20cd1d8a19aeed"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T07:18:51.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8f07f8d20cd1d8a19afd3"
+  },
+  "sender": {
+    "$oid": "67e8f0518d20cd1d8a19af4f"
+  },
+  "receiver": {
+    "$oid": "67e7c5cc305e4b581ae62402"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T07:19:27.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e8f1448d20cd1d8a19b058"
+  },
+  "sender": {
+    "$oid": "67e8f13b8d20cd1d8a19b03c"
+  },
+  "receiver": {
+    "$oid": "67e8f0fe8d20cd1d8a19b029"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T07:22:44.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e91d4ce355e0d745391780"
+  },
+  "sender": {
+    "$oid": "67e91d10e355e0d745391764"
+  },
+  "receiver": {
+    "$oid": "67e91bd5e355e0d74539174e"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T10:30:36.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e93fffe355e0d74539190a"
+  },
+  "sender": {
+    "$oid": "67e93ff0e355e0d7453918ed"
+  },
+  "receiver": {
+    "$oid": "67e93f19e355e0d7453918e3"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T12:58:39.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e981b7418b8be7a5bf7308"
+  },
+  "sender": {
+    "$oid": "67e981ad418b8be7a5bf72ec"
+  },
+  "receiver": {
+    "$oid": "67e98159418b8be7a5bf72e2"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-03-30T17:39:03.503Z"
+  },
+  "__v": 0
+}]
