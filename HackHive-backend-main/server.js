@@ -66,9 +66,6 @@ app.get('/api/health', (req, res) => {
   res.status(200).json({ status: 'success', message: 'API is running' });
 });
 
-app.get('/', (req, res) => {
-  res.send('Welcome to HackHive API!');
-});
 // For Vercel deployment, we need to handle port binding differently
 // In Vercel serverless functions, we don't need to explicitly listen on a port
 // Only listen on a port when not in production/Vercel environment
