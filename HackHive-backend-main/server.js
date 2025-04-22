@@ -2,6 +2,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
+const path = require('path');
 
 const app = express();
 
@@ -65,6 +66,20 @@ app.use((err, req, res, next) => {
 app.get('/api/health', (req, res) => {
   res.status(200).json({ status: 'success', message: 'API is running' });
 });
+
+// Serve static files from the frontend build directory in production
+if (process.env.NODE_ENV === 'production') {
+  // Set static folder
+  const frontendBuildPath = path.join(__dirname, '../HackHive-main/dist');
+  app.use(express.static(frontendBuildPath));
+  
+  // Serve the index.html for any route not starting with /api
+  app.get('*', (req, res) => {
+    if (!req.path.startsWith('/api')) {
+      res.sendFile(path.resolve(frontendBuildPath, 'index.html'));
+    }
+  });
+}
 
 // For Vercel deployment, we need to handle port binding differently
 // In Vercel serverless functions, we don't need to explicitly listen on a port

@@ -10,8 +10,8 @@
     "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
     "dev:frontend": "cd HackHive-main && npm run dev",
     "dev:backend": "cd HackHive-backend-main && npm run dev",
-    "build": "cd HackHive-main && npm run build",
-    "start": "cd HackHive-backend-main && npm start"
+    "build": "npm run install:all && cd HackHive-main && npm run build",
+    "start": "export NODE_ENV=production && cd HackHive-backend-main && npm start"
   },
   "keywords": [
     "hackathon",
